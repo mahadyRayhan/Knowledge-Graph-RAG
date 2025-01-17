@@ -1,0 +1,135 @@
+[
+    {
+        "question": "What are the genres of 'Star Wars: Episode IV - A New Hope'?",
+        "LLM": "The genres of 'Star Wars: Episode IV - A New Hope' are Sci-Fi, Adventure, and Action.",
+        "answer": "The genres of 'Star Wars: Episode IV - A New Hope' are 'Sci-Fi', 'Action', and 'Adventure'.",
+        "GT_NDCG": ["Sci-Fi", "Adventure", "Action"],
+        "response_NDCG": ["Sci-Fi", "Adventure", "Action"]
+    },
+    {
+        "question": "How many users rated 'Jungle Book, The'?",
+        "LLM": "1 user rated 'Jungle Book, The'",
+        "answer": "1 users rated 'Jungle Book, The'.",
+        "GT_NDCG": [1],
+        "response_NDCG": [1]
+    },
+    {
+        "question": "I like the movie 'Dumb & Dumber (Dumb and Dumber)'. Give me 5 movies similar to this one with their genres.",
+        "LLM": "Based on the genres of the movie 'Dumb & Dumber (Dumb and Dumber)', here are 5 similar movies you might enjoy: 'Batman Forever', 'True Lies', 'City Slickers II: The Legend of Curly's Gold', 'Coneheads', and 'Bullets Over Broadway'.",
+        "answer": "Based on your preference for 'Dumb & Dumber (Dumb and Dumber)', here are 5 similar movies you might enjoy: 'Batman Forever', 'True Lies', 'City Slickers II: The Legend of Curly's Gold', 'Coneheads', and 'Bullets Over Broadway'. These movies share the genres of Comedy and Adventure.",
+        "GT_NDCG": ["Batman Forever", "True Lies", "City Slickers II: The Legend of Curly's Gold", "Coneheads", "Bullets Over Broadway"],
+        "response_NDCG": ["Batman Forever", "True Lies", "City Slickers II: The Legend of Curly's Gold", "Coneheads", "Bullets Over Broadway"]
+    },
+    {
+        "question": "What are the ratings for 'Taxi Driver'?",
+        "LLM": "User 1 rated 'Taxi Driver' with a rating of 5.0",
+        "answer": "The ratings for 'Taxi Driver' are 5.0.",
+        "GT_NDCG": [5.0],
+        "response_NDCG": [5.0]
+    },
+    {
+        "question": "Find all movies released in 1993.",
+        "LLM": "The movies released in 1993 are: Three Colors: Blue (Trois couleurs: Bleu), The Firm, The Fugitive, Hot Shots! Part Deux, Mrs. Doubtfire, What's Eating Gilbert Grape, Cliffhanger, Demolition Man, Jurassic Park, and Addams Family Values.",
+        "answer": "The movies released in 1993 are 'Three Colors: Blue (Trois couleurs: Bleu)', 'Firm, The', 'Fugitive, The', 'Hot Shots! Part Deux', 'Mrs. Doubtfire', 'Whats Eating Gilbert Grape', 'Cliffhanger', 'Demolition Man', 'Jurassic Park', 'Addams Family Values', 'Coneheads', and 'Dave'",
+        "GT_NDCG": ["Three Colors: Blue (Trois couleurs: Bleu)", "Firm, The", "Fugitive, The", "Hot Shots! Part Deux", "Mrs. Doubtfire", "Whats Eating Gilbert Grape", "Cliffhanger", "Demolition Man", "Jurassic Park", "Addams Family Values", "Coneheads", "Dave"],
+        "response_NDCG": ["Three Colors: Blue (Trois couleurs: Bleu)", "The Firm", "The Fugitive, Hot Shots! Part Deux", "Mrs. Doubtfire", "What's Eating Gilbert Grape", "Cliffhanger", "Demolition Man", "Jurassic Park", "Addams Family Values"]
+    },
+    {
+        "question": "What is the average rating for 'Pulp Fiction'?",
+        "LLM": "The average rating for 'Pulp Fiction' is 2.875",
+        "answer": "The average rating for 'Pulp Fiction' is 2.875.",
+        "GT_NDCG": [2.875],
+        "response_NDCG": [2.875]
+    },
+    {
+        "question": "Find all movies that are both 'Action' and 'Thriller'.",
+        "LLM": "The movies that are both 'Action' and 'Thriller' are: Get Shorty, Outbreak, Natural Born Killers, Die Hard: With a Vengeance, Seven (a.k.a. Se7en), Jurassic Park, Cliffhanger, GoldenEye, Fugitive, The, and Firm, The.",
+        "answer": "The movies which are both Action and Thriller are 'Outbreak', 'Natural Born Killers', 'Die Hard: With a Vengeance', 'Jurassic Park', 'Cliffhanger', 'GoldenEye', 'True Lies', 'Speed', 'Clear and Present Danger'  and 'Net, The'.",
+        "GT_NDCG": ["Outbreak", "Natural Born Killers", "Die Hard: With a Vengeance", "Jurassic Park", "Cliffhanger", "GoldenEye", "True Lies", "Speed", "Clear and Present Danger", "Net, The"],
+        "response_NDCG": ["Get Shorty", "Outbreak", "Natural Born Killers", "Die Hard: With a Vengeance" , "Seven (a.k.a. Se7en)", "Jurassic Park", "Cliffhanger", "GoldenEye", "Fugitive, The", "Firm, The"]
+    },
+    {
+        "question": "List all users who rated movies in the 'Horror' genre.",
+        "LLM": "There are no users who have rated movies in the 'Horror' genre.",
+        "answer": "User 2 and 5 rated Horror movies.",
+        "GT_NDCG": [2],
+        "response_NDCG": []
+    },
+    {
+        "question": "What is the highest rated movie released before 2000?",
+        "LLM": "The highest rated movie released before 2000 is Shanghai Triad (Yao a yao yao dao waipo qiao) with an average rating of 5.0.",
+        "answer": "Height rated movie resleased before 2000 is Shanghai Triad (Yao a yao yao dao waipo qiao).",
+        "GT_NDCG": ["Shanghai Triad (Yao a yao yao dao waipo qiao)"],
+        "response_NDCG": ["Shanghai Triad (Yao a yao yao dao waipo qiao)"]
+    },
+    {
+        "question": "Find movies with 'Love' in the title.",
+        "LLM": "ERROR: SAFETY Issue.",
+        "answer": "The movie that have love in title is 'When a Man Loves a Woman'.",
+        "GT_NDCG": ["When a Man Loves a Woman"],
+        "response_NDCG": []
+    },
+    {
+        "question": "How many movies are in the 'Fantasy' genre?",
+        "LLM": "There are 5 movies in the 'Fantasy' genre",
+        "answer": "There are 5 movies in the 'Fantasy' genre.",
+        "GT_NDCG": [5],
+        "response_NDCG": [5]
+    },
+    {
+        "question": "What movies did user 2 rate?",
+        "LLM": "User 2 rated the following movies: Mrs. Doubtfire, Hot Shots! Part Deux, Fugitive, The, Firm, The, When a Man Loves a Woman, True Lies, Speed, Lion King, The, Jungle Book, The, Four Weddings and a Funeral.",
+        "answer": "User 2 rated 'Mrs. Doubtfire','Hot Shots! Part Deux','Fugitive, The','Firm, The','When a Man Loves a Woman','True Lies','Speed','Lion King, The','Jungle Book, The','Four Weddings and a Funeral','Forrest Gump','Client, The','Clear and Present Danger','Ace Ventura: Pet Detective','While You Were Sleeping','Shawshank Redemption, The','Ready to Wear (Pret-A-Porter)','Pulp Fiction','Nell','Milk Money','Interview with the Vampire: The Vampire Chronicles','Forget Paris','French Kiss','Dumb & Dumber (Dumb and Dumber)','Disclosure','Circle of Friends','Boys on the Side','Billy Madison','Walk in the Clouds, A','Showgirls','Nine Months','Net, The','Batman Forever','Pocahontas','Clueless','Babe' and 'Dangerous Minds'.",
+        "GT_NDCG": ["Mrs. Doubtfire","Hot Shots! Part Deux","Fugitive, The","Firm, The","When a Man Loves a Woman","True Lies","Speed","Lion King, The","Jungle Book, The","Four Weddings and a Funeral","Forrest Gump","Client, The","Clear and Present Danger","Ace Ventura: Pet Detective","While You Were Sleeping","Shawshank Redemption, The","Ready to Wear (Pret-A-Porter)","Pulp Fiction","Nell","Milk Money","Interview with the Vampire: The Vampire Chronicles","Forget Paris","French Kiss","Dumb & Dumber (Dumb and Dumber)","Disclosure","Circle of Friends","Boys on the Side","Billy Madison","Walk in the Clouds, A","Showgirls","Nine Months","Net, The","Batman Forever","Pocahontas","Clueless","Babe", "Dangerous Minds"],
+        "response_NDCG": ["Mrs. Doubtfire", "Hot Shots! Part Deux", "Fugitive, The", "Firm, The", "When a Man Loves a Woman", "True Lies", "Speed", "Lion King, The", "Jungle Book, The", "Four Weddings and a Funeral"]
+    },
+    {
+        "question": "List users who rated movies released in 1994.",
+        "LLM": "The users who rated movies released in 1994 are: 1, 2, 3, 4, 5, 7, and 8.",
+        "answer": "Users who rated movies released in 1994 include User 1, User 2, User 3, User 4, User 5, User 7 and User 8.",
+        "GT_NDCG": [1, 2, 3, 4, 5, 7, 8],
+        "response_NDCG": [1, 2, 3, 4, 5, 7, 8]
+    },
+    {
+        "question": "What are the genres of 'The Lion King'?",
+        "LLM": "User Mistake.",
+        "answer": "'Lion King, The' is a movie in the 'Adventure', 'Animation', 'Children', 'Drama', 'Musical' and 'IMAX' genres.",
+        "GT_NDCG": ["Adventure", "Animation", "Children", "Drama", "Musical", "IMAX"],
+        "response_NDCG": []
+    },
+    {
+        "question": "I liked the movie 'French Kiss'. What are 5 similar movies I should watch?",
+        "LLM": "Based on your preference for 'French Kiss', here are 5 similar movies you might enjoy: 'True Lies', 'Englishman Who Went Up a Hill But Came Down a Mountain, The', 'First Knight', 'Rob Roy', and 'Dave'.",
+        "answer": "Based on your preference for 'Dead Man Walking', here are 5 similar movies you might enjoy: 'True Lies','Englishman Who Went Up a Hill But Came Down a Mountain, The','First Knight','Rob Roy','Dave'.",
+        "GT_NDCG": ["True Lies","Englishman Who Went Up a Hill But Came Down a Mountain, The","First Knight","Rob Roy","Dave"],
+        "response_NDCG": ["True Lies","Englishman Who Went Up a Hill But Came Down a Mountain, The","First Knight","Rob Roy","Dave"]
+    },
+    {
+        "question": "What movies have the most shared genres with 'Milk Money'?",
+        "LLM": "The movies that have the most shared genres with 'Milk Money' are: Forget Paris, Nine Months, Englishman Who Went Up a Hill But Came Down a Mountain, The, While You Were Sleeping, American President, The, French Kiss, True Lies, Dave, Four Weddings and a Funeral, Clueless.",
+        "answer": "Five movies that have the same genres as 'Milk Money' are 'Forget Paris', 'Nine Months', 'Englishman Who Went Up a Hill But Came Down a Mountain, The', 'While You Were Sleeping', 'American President, The'.",
+        "GT_NDCG": ["Forget Paris", "Nine Months", "Englishman Who Went Up a Hill But Came Down a Mountain, The", "While You Were Sleeping", "American President, The"],
+        "response_NDCG": ["Forget Paris", "Nine Months", "Englishman Who Went Up a Hill But Came Down a Mountain, The", "While You Were Sleeping", "American President, The"]
+    },
+    {
+        "question": "Find all movies rated above 4 and rated by atlead 2 user.",
+        "LLM": "ERROR!",
+        "answer": "The movie that has rating above 4 and rated by at least 2 users are 'Firm, The', 'Four Weddings and a Funeral' and 'Clear and Present Danger'.",
+        "GT_NDCG": ["Firm, The", "Four Weddings and a Funeral", "Clear and Present Danger"],
+        "response_NDCG": []
+    },
+    {
+        "question": "How many users rated 'Dangerous Minds'?",
+        "LLM": "1 user rated 'Dangerous Minds'",
+        "answer": "1 users rated 'Dangerous Minds'",
+        "GT_NDCG": [1],
+        "response_NDCG": [1]
+    },
+    {
+        "question": "I like 'Adventure' and 'Fantasy' genres. What movies should I watch next?",
+        "LLM": "Based on your preference for 'Adventure' and 'Fantasy' genres, you may enjoy watching movies like 'City Slickers II: The Legend of Curly's Gold', 'Jurassic Park', 'Demolition Man', 'Cliffhanger', 'Star Trek: Generations', 'Stargate', 'Waterworld', 'Casper', 'Apollo 13', and 'GoldenEye'",
+        "answer": "Based on your preferences for 'Adventure' and 'Fantasy', you might enjoy watching 'City Slickers II: The Legend of Curly's Gold', 'Jurassic Park', 'Demolition Man', 'Cliffhanger' and 'Star Trek: Generations'.",
+        "GT_NDCG": ["City Slickers II: The Legend of Curly's Gold", "Jurassic Park", "Demolition Man", "Cliffhanger", "Star Trek: Generations"],
+        "response_NDCG": ["City Slickers II: The Legend of Curly's Gold", "Jurassic Park", "Demolition Man", "Cliffhanger", "Star Trek: Generations"]
+    }
+]
