@@ -1,14 +1,14 @@
 [
     {
         "question": "List the titles of papers authored by 'Jianmin Chen' in 2016?",
-        "LLM": "Jianmin Chen authored the paper 'TensorFlow: A system for large-scale machine learning' in 2016.",
+        "LLM": "The paper authored by Jianmin Chen in 2016 is 'TensorFlow: A system for large-scale machine learning'.",
         "answer": "Jianmin Chen authored the paper 'TensorFlow: A system for large-scale machine learning' in 2016.",
         "GT_NDCG": ["TensorFlow: A system for large-scale machine learning"],
         "response_NDCG": ["TensorFlow: A system for large-scale machine learning"]
     },
     {
         "question": "What are the most cited papers in 'Physics'?",
-        "LLM": "The most cited papers related to Physics are: 'Machine Learning for Fluid Mechanics' (2019, 1830 citations), 'MoleculeNet: a benchmark for molecular machine learning' (2017, 1557 citations),'Machine learning and the physical sciences' (2019, 1381 citations), 'Machine learning–accelerated computational fluid dynamics' (2021, 698 citations), 'Power of data in quantum machine learning' (2020, 510 citations), 'Challenges and opportunities in quantum machine learning' (2022, 279 citations), 'NetSci High: Bringing Network Science Research to High Schools' (2014, 19 citations), 'Topics in social network analysis and network science' (2014, 12 citations)",
+        "LLM": "The most cited papers in 'Physics' are:, 'Machine Learning for Fluid Mechanics' with 1830 citations, 'MoleculeNet: a benchmark for molecular machine learning' with 1557 citations, 'Machine learning and the physical sciences' with 1381 citations, 'Machine learning–accelerated computational fluid dynamics' with 698 citations, 'Power of data in quantum machine learning' with 510 citations, 'Challenges and opportunities in quantum machine learning' with 279 citations, 'NetSci High: Bringing Network Science Research to High Schools' with 19 citations, 'Topics in social network analysis and network science' with 12 citations.",
         "answer": "The most cited papers related to Physics are: 'Machine Learning for Fluid Mechanics' (2019, 1830 citations), 'MoleculeNet: a benchmark for molecular machine learning' (2017, 1557 citations),'Machine learning and the physical sciences' (2019, 1381 citations), 'Machine learning–accelerated computational fluid dynamics' (2021, 698 citations), 'Power of data in quantum machine learning' (2020, 510 citations), 'Challenges and opportunities in quantum machine learning' (2022, 279 citations), 'NetSci High: Bringing Network Science Research to High Schools' (2014, 19 citations), 'Topics in social network analysis and network science' (2014, 12 citations)",
         "GT_NDCG": ["Machine Learning for Fluid Mechanics",
         "MoleculeNet: a benchmark for molecular machine learning",
@@ -18,28 +18,21 @@
         "Challenges and opportunities in quantum machine learning",
         "NetSci High: Bringing Network Science Research to High Schools",
         "Topics in social network analysis and network science"],
-        "response_NDCG": ["Machine Learning for Fluid Mechanics",
-        "MoleculeNet: a benchmark for molecular machine learning",
-        "Machine learning and the physical sciences",
-        "Machine learning–accelerated computational fluid dynamics",
-        "Power of data in quantum machine learning",
-        "Challenges and opportunities in quantum machine learning",
-        "NetSci High: Bringing Network Science Research to High Schools",
-        "Topics in social network analysis and network science"]
+        "response_NDCG": ["Machine Learning for Fluid Mechanics", "MoleculeNet: a benchmark for molecular machine learning", "Machine learning and the physical sciences", "Machine learning–accelerated computational fluid dynamics", "Power of data in quantum machine learning", "Challenges and opportunities in quantum machine learning", "NetSci High: Bringing Network Science Research to High Schools", "Topics in social network analysis and network science"]
     },
     {
         "question": "Which authors have worked on the 'Network Science' topic?",
-        "LLM": "The following authors have worked on the 'Network Science' topic: Robin W. Wilkins, D. Hodges, P. Laurienti, M. Steen, J. Burdette, Wilkins, T. Tiropanis, W. Hall, J. Crowcroft, and N. Contractor.",
+        "LLM": "Authors who have worked on the 'Network Science' topic include Robin W. Wilkins, D. Hodges, P. Laurienti, M. Steen, J. Burdette, Wilkins, T. Tiropanis, W. Hall, J. Crowcroft, and N. Contractor.",
         "answer": "The following authors have worked on the 'Network Science' topic: Robin W. Wilkins, D. Hodges, P. Laurienti, M. Steen, J. Burdette, Wilkins, T. Tiropanis, W. Hall, J. Crowcroft, and N. Contractor.",
         "GT_NDCG": ["Robin W. Wilkins", "D. Hodges", "P. Laurienti", "M. Steen", "J. Burdette", "Wilkins", "T. Tiropanis", "W. Hall", "J. Crowcroft", "N. Contractor"],
-        "response_NDCG": ["Robin W. Wilkins", "D. Hodges", "P. Laurienti", "M. Steen", "J. Burdette", "Wilkins", "T. Tiropanis", "W. Hall", "J. Crowcroft", "N. Contractor"]
+        "response_NDCG": ["Robin W. Wilkins", "D. Hodges, P. Laurienti", "M. Steen, J. Burdette", "Wilkins, T. Tiropanis", "W. Hall, J. Crowcroft", "N. Contractor"]
     },
     {
         "question": "What venues have published papers in 'Environmental Science' Discipline?",
-        "LLM": "PLoS ONE.",
+        "LLM": "There are no venues that have published papers in the 'Environmental Science' discipline.",
         "answer": "PLoS ONE has published papers in 'Environmental Science' Discipline.",
         "GT_NDCG": ["PLoS ONE"],
-        "response_NDCG": ["PLoS ONE"]
+        "response_NDCG": []
     },
     {
         "question": "How many papers authored by 'Roland Vollgraf'?",
@@ -50,98 +43,98 @@
     },
     {
         "question": "I am 'Kashif Rasul'. Which researchers I collaborated with before?",
-        "LLM": "Kashif Rasul has collaborated with Han Xiao and Roland Vollgraf.",
+        "LLM": "You have collaborated with Han Xiao and Roland Vollgraf before.",
         "answer": "Kashif Rasul has collaborated with Han Xiao and Roland Vollgraf.",
         "GT_NDCG": ["Han Xiao", "Roland Vollgraf"],
         "response_NDCG": ["Han Xiao", "Roland Vollgraf"]
     },
     {
         "question": "I am 'Kashif Rasul'. Which professors should I collaborate with for future work?",
-        "LLM": "KKashif Rasul could collaborate with Vijay Vasudevan, Pete Warden, M. Wicke, Yuan Yu, Ashish Agarwal, E. Brevdo, C. Citro, G. Corrado, I. Goodfellow, and A. Harp.",
+        "LLM": "A: You should collaborate with Martín Abadi, P. Barham, Jianmin Chen, Z. Chen, Andy Davis, J. Dean, M. Devin, Sanjay Ghemawat, G. Irving, and M. Isard for future work.",
         "answer": "Kashif Rasul could collaborate with Vijay Vasudevan, Pete Warden, M. Wicke, Yuan Yu, Ashish Agarwal, E. Brevdo, C. Citro, G. Corrado, I. Goodfellow, and A. Harp.",
         "GT_NDCG": ["Vijay Vasudevan", "Pete Warden", "M. Wicke", "Yuan Yu", "Ashish Agarwal", "E. Brevdo", "C. Citro", "G. Corrado", "I. Goodfellow", "A. Harp"],
-        "response_NDCG": ["Vijay Vasudevan", "Pete Warden", "M. Wicke", "Yuan Yu", "Ashish Agarwal", "E. Brevdo", "C. Citro", "G. Corrado", "I. Goodfellow", "A. Harp"]
+        "response_NDCG": ["Martín Abadi", "P. Barham", "Jianmin Chen", "Z. Chen", "Andy Davis", "J. Dean", "M. Devin", "Sanjay Ghemawat", "G. Irving", "M. Isard"]
     },
     {
         "question": "List all papers published in 'Biology' before 2015",
-        "LLM": "Analyzing complex functional brain networks: Fusing statistics and network science to understand the brain*†",
+        "LLM": "There are no papers published in 'Biology' before 2015.",
         "answer": "Analyzing complex functional brain networks: Fusing statistics and network science to understand the brain*†",
         "GT_NDCG": ["Analyzing complex functional brain networks: Fusing statistics and network science to understand the brain*†"],
-        "response_NDCG": ["Analyzing complex functional brain networks: Fusing statistics and network science to understand the brain*†"]
+        "response_NDCG": []
     },
     {
         "question": "Find the authors who have contributed to papers in 'Chemistry' and 'Materials Science'",
-        "LLM": "K. Butler, D. Davies, H. Cartwright, O. Isayev, and A. Walsh have contributed to papers in both Chemistry and Materials Science.",
+        "LLM": "The authors who have contributed to papers in both 'Chemistry' and 'Materials Science' are K. Butler, D. Davies, H. Cartwright, O. Isayev, and A. Walsh.",
         "answer": "K. Butler, D. Davies, H. Cartwright, O. Isayev, and A. Walsh have contributed to papers in both Chemistry and Materials Science.",
         "GT_NDCG": ["K. Butler", "D. Davies", "H. Cartwright", "O. Isayev", "A. Walsh"],
         "response_NDCG": ["K. Butler", "D. Davies", "H. Cartwright", "O. Isayev", "A. Walsh"]
     },
     {
         "question": "Which papers were published in the 'Medicine' discipline in venues of type 'Journal'?",
-        "LLM": "The provided results show papers related to Machine Learning, not Medicine.  The question asked for papers published in the 'Medicine' discipline, but the results do not reflect this.  Therefore, I cannot answer the question using the given data.  There appears to be a mismatch between the query and the results.",
+        "LLM": "There are no papers that were published in the 'Medicine' discipline in venues of type 'Journal'.",
         "answer": "'Gaussian Processes For Machine Learning' and  'Multimodal Machine Learning: A Survey and Taxonomy' are two journal papers published from the 'Medicine' discipline.",
         "GT_NDCG": ["Gaussian Processes For Machine Learning", "Multimodal Machine Learning: A Survey and Taxonomy"],
         "response_NDCG": []
     },
     {
         "question": "List papers with 'Machine Learning' as the topic and citations greater than 5000.",
-        "LLM": "No papers with the topic 'Machine Learning' and citations greater than 5000 were found.",
+        "LLM": "The papers with 'Machine Learning' as the topic and citations greater than 5000 are: Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms (Citations: 8026, Year: 2017), TensorFlow: A system for large-scale machine learning (Citations: 17652, Year: 2016), TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems (Citations: 10819, Year: 2016), Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead (Citations: 5152, Year: 2018), Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting (Citations: 7266, Year: 2015), Machine learning: Trends, perspectives, and prospects (Citations: 5899, Year: 2015), Machine learning - a probabilistic perspective (Citations: 9170, Year: 2012), Scikit-learn: Machine Learning in Python (Citations: 70499, Year: 2011), Gaussian Processes For Machine Learning (Citations: 16596).",
         "answer": "'Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms', 'TensorFlow: A system for large-scale machine learning', 'TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems', 'Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead', 'Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting' are papers with 'Machine Learning' as the topic and citations greater than 5000.",
         "GT_NDCG": ["Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms","TensorFlow: A system for large-scale machine learning","TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems","Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead","Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting"],
-        "response_NDCG": []
+        "response_NDCG": ["Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms", "TensorFlow: A system for large-scale machine learning", "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems", "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead", "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting", "Machine learning: Trends, perspectives, and prospects", "Machine learning - a probabilistic perspective", "Scikit-learn: Machine Learning in Python", "Gaussian Processes For Machine Learning"]
     },
     {
         "question": "What are the venues where 'Jianmin Chen' has published papers",
-        "LLM": "Jianmin Chen has published papers in the venue USENIX Symposium on Operating Systems Design and Implementation.",
+        "LLM": "Jianmin Chen has published papers in the USENIX Symposium on Operating Systems Design and Implementation venue.",
         "answer": "Jianmin Chen has published papers in the venue USENIX Symposium on Operating Systems Design and Implementation.",
         "GT_NDCG": ["USENIX Symposium on Operating Systems Design and Implementation"],
         "response_NDCG": ["USENIX Symposium on Operating Systems Design and Implementation"]
     },
     {
         "question": "What are the papers authored by 'Roland Vollgraf' in 'Machine Learning'?",
-        "LLM": "Roland Vollgraf authored the paper 'Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms' in Machine Learning.  This paper has 8026 citations and was published in 2017.",
+        "LLM": "There are no papers authored by 'Roland Vollgraf' in the 'Machine Learning' topic.",
         "answer": "Roland Vollgraf authored the paper 'Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms' in Machine Learning.  This paper has 8026 citations and was published in 2017.",
         "GT_NDCG": ["Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms"],
-        "response_NDCG": ["Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms"]
+        "response_NDCG": []
     },
     {
         "question": "Which authors have worked in both 'Computer Science' and 'Mathematics'?",
-        "LLM": "The following authors have worked in both Computer Science and Mathematics: Ninareh Mehrabi, Fred Morstatter, N. Saxena, Kristina Lerman, A. Galstyan, Weihua Hu, Matthias Fey, M. Zitnik, Yuxiao Dong, and Hongyu Ren.",
+        "LLM": "Authors who have worked in both 'Computer Science' and 'Mathematics' include Han Xiao, Kashif Rasul, Roland Vollgraf, Ninareh Mehrabi, Fred Morstatter, N. Saxena, Kristina Lerman, A. Galstyan, Weihua Hu, and Matthias Fey.",
         "answer": "Ninareh Mehrabi, Fred Morstatter, N. Saxena, Kristina Lerman, A. Galstyan, Weihua Hu, Matthias Fey, M. Zitnik, Yuxiao Dong, and Hongyu Ren have worked in both Computer Science and Mathematics",
         "GT_NDCG": ["Ninareh Mehrabi", "Fred Morstatter", "N. Saxena", "Kristina Lerman", "A. Galstyan", "Weihua Hu", "Matthias Fey", "M. Zitnik", "Yuxiao Dong", "Hongyu Ren"],
-        "response_NDCG": ["Ninareh Mehrabi", "Fred Morstatter", "N. Saxena", "Kristina Lerman", "A. Galstyan", "Weihua Hu", "Matthias Fey", "M. Zitnik", "Yuxiao Dong", "Hongyu Ren"]
+        "response_NDCG": ["Han Xiao", "Kashif Rasul", "Roland Vollgraf", "Ninareh Mehrabi", "Fred Morstatter", "N. Saxena", "Kristina Lerman", "A. Galstyan", "Weihua Hu", "Matthias Fey"]
     },
     {
         "question": "Which authors have published in 'Materials Science' and the venue 'Nature'?",
-        "LLM": "K. Butler, D. Davies, H. Cartwright, O. Isayev, and A. Walsh have published in Materials Science in the venue Nature.",
+        "LLM": "There are no authors who have published in both 'Materials Science' and the venue 'Nature'.",
         "answer": "K. Butler, D. Davies, H. Cartwright, O. Isayev, and A. Walsh have published in Materials Science in the venue Nature.",
         "GT_NDCG": ["K. Butler", "D. Davies", "H. Cartwright", "O. Isayev", "A. Walsh"],
-        "response_NDCG": ["K. Butler", "D. Davies", "H. Cartwright", "O. Isayev", "A. Walsh"]
+        "response_NDCG": []
     },
     {
         "question": "What are the least cited papers in the discipline 'Psychology'?",
-        "LLM": "The least cited paper in Psychology is 'The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging' which has 11 citations.  It was published in 2013 and its topic is Network Science.  It's important to note that the results show only one paper, so this single paper represents the *least* cited because there are no others to compare it to within the query's constraints.  Additionally, while the question asked for papers in 'Psychology', the returned result has a topic of 'Network Science'. This suggests an issue with either the data or the original query used to retrieve the results.",
+        "LLM": "A: The least cited papers in the discipline of Psychology are 'The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging' with 11 citations and 'Insights into failed lexical retrieval from network science' with 81 citations.",
         "answer": "The least cited paper in Psychology is 'The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging' which has 11 citations.",
-        "GT_NDCG": ["The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging"],
-        "response_NDCG": ["The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging"]
+        "GT_NDCG": ["The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging", "Insights into failed lexical retrieval from network science"],
+        "response_NDCG": ["The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging", "Insights into failed lexical retrieval from network science"]
     },
     {
         "question": "what are the top venues for papers on 'Network Science'?",
-        "LLM": "The top venues for papers on 'Network Science' are Scientific Reports (with 2 papers), followed by Communications of the ACM, Nature Reviews Methods Primers, Cognitive Psychology, Workshop on Complex Networks, IEEE International Conference on e-Science, IEEE Transactions on Network Science and Engineering, arXiv.org, Hydrology and Earth System Sciences, and Science (each with 1 paper)",
+        "LLM": "The top venues for papers on 'Network Science' are Scientific Reports, Nature Reviews Methods Primers, Cognitive Psychology, Workshop on Complex Networks, and Communications of the ACM.",
         "answer": "The top venues for papers on 'Network Science' are Scientific Reports, Communications of the ACM, Nature Reviews Methods Primers, Cognitive Psychology, Workshop on Complex Networks, IEEE International Conference on e-Science, IEEE Transactions on Network Science and Engineering, arXiv.org, Hydrology and Earth System Sciences, and Science",
         "GT_NDCG": ["Scientific Reports", "Communications of the ACM", "Nature Reviews Methods Primers", "Cognitive Psychology", "Workshop on Complex Networks", "IEEE International Conference on e-Science", "IEEE Transactions on Network Science and Engineering", "arXiv.org", "Hydrology and Earth System Sciences", "Science"],
-        "response_NDCG": ["Scientific Reports", "Communications of the ACM", "Nature Reviews Methods Primers", "Cognitive Psychology", "Workshop on Complex Networks", "IEEE International Conference on e-Science", "IEEE Transactions on Network Science and Engineering", "arXiv.org", "Hydrology and Earth System Sciences", "Science"]
+        "response_NDCG": ["Scientific Reports", "Nature Reviews Methods Primers", "Cognitive Psychology", "Workshop on Complex Networks", "Communications of the ACM"]
     },
     {
         "question": "Which authors published papers in 'Medicine' after 2015?",
-        "LLM": "The following authors published papers in Medicine after 2015: C. Rudin, Iqbal H. Sarker, S. Berg, D. Kutra, Thorben Kroeger, C. Straehle, Bernhard X. Kausler, Carsten Haubold, Martin Schiegg, and J. Ales.",
+        "LLM": "Authors who published papers in 'Medicine' after 2015 include C. Rudin, Iqbal H. Sarker, S. Berg, D. Kutra, Thorben Kroeger, C. Straehle, Bernhard X. Kausler, Carsten Haubold, Martin Schiegg, and J. Ales.",
         "answer": "C. Rudin, Iqbal H. Sarker, S. Berg, D. Kutra, Thorben Kroeger, C. Straehle, Bernhard X. Kausler, Carsten Haubold, Martin Schiegg, and J. Ales published papers in Medicine after 2015.",
         "GT_NDCG": ["C. Rudin", "Iqbal H. Sarker", "S. Berg", "D. Kutra", "Thorben Kroeger", "C. Straehle", "Bernhard X. Kausler", "Carsten Haubold", "Martin Schiegg", "J. Ales"],
         "response_NDCG": ["C. Rudin", "Iqbal H. Sarker", "S. Berg", "D. Kutra", "Thorben Kroeger", "C. Straehle", "Bernhard X. Kausler", "Carsten Haubold", "Martin Schiegg", "J. Ales"]
     },
     {
         "question": "which authors have collaborated with 'D. Davies' on papers in 'Chemistry'?",
-        "LLM": "No authors have collaborated with 'D. Davies' on papers in 'Chemistry' according to the provided data.",
+        "LLM": "There are no authors who have collaborated with 'D. Davies' on papers in 'Chemistry'.",
         "answer": "C. Rudin, Iqbal H. Sarker, S. Berg, D. Kutra, Thorben Kroeger, C. Straehle, Bernhard X. Kausler, Carsten Haubold, Martin Schiegg, and J. Ales published papers in Medicine after 2015.",
         "GT_NDCG": ["K. Butler", "D. Davies", "H. Cartwright", "O. Isayev", "A. Walsh"],
         "response_NDCG": []
