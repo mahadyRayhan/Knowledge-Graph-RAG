@@ -1,0 +1,389 @@
+(167, 6)
+Number of users: def
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.474442005157471----------------
+
+(400, 6)
+Number of users: 5
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.608645915985107----------------
+
+(1219, 6)
+Number of users: 10
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.5156049728393555----------------
+
+(1438, 6)
+Number of users: 15
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.5931761264801025----------------
+
+(2144, 6)
+Number of users: 20
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 2 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.5422821044921875----------------
+
+(7927, 6)
+Number of users: 50
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 3 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'A Silent Voice', 'Ghost in the Shell', 'Free Fire', 'Sense and Sensibility', and 'Leaving Las Vegas'.
+----------------Response Time: 5.882580995559692----------------
+
+(15424, 6)
+Number of users: 100
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 6 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Valkyrie', 'Marley & Me', "He's Just Not That Into You", "Dr. Horrible's Sing-Along Blog", and 'Knowing'.
+----------------Response Time: 5.8874900341033936----------------
+
+File 2
+
+Number of users: 7
+DF shape:  (167, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.534723997116089----------------
+
+Number of users: 5
+DF shape:  (400, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.525182008743286----------------
+
+Number of users: 10
+DF shape:  (1219, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.601644992828369----------------
+
+Number of users: 15
+DF shape:  (1438, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 14.58748197555542----------------
+
+Number of users: 20
+DF shape:  (2144, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 2 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.644296884536743----------------
+
+Number of users: 50
+DF shape:  (7927, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 3 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Midnight Cowboy', 'Last Emperor, The', 'Rain Man', 'Breakfast Club, The', and 'Dangerous Liaisons'.
+----------------Response Time: 5.361313104629517----------------
+
+Number of users: 100
+DF shape:  (15424, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 6 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Valkyrie', 'Marley & Me', "He's Just Not That Into You", "Dr. Horrible's Sing-Along Blog", and 'Knowing'.
+
+----------------Response Time: 5.391981840133667----------------
+Number of users: 250
+DF shape:  (38823, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 22 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.746517896652222----------------
+
+Number of users: 500
+DF shape:  (80297, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 47 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 16.791091203689575----------------
+
+File 3
+
+Number of users: 7
+DF shape:  (167, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.534723997116089----------------
+
+Number of users: 5
+DF shape:  (400, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.525182008743286----------------
+
+Number of users: 10
+DF shape:  (1219, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.601644992828369----------------
+
+Number of users: 15
+DF shape:  (1438, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 14.58748197555542----------------
+
+Number of users: 20
+DF shape:  (2144, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 2 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.644296884536743----------------
+
+Number of users: 50
+DF shape:  (7927, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 3 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Midnight Cowboy', 'Last Emperor, The', 'Rain Man', 'Breakfast Club, The', and 'Dangerous Liaisons'.
+----------------Response Time: 5.361313104629517----------------
+
+Number of users: 100
+DF shape:  (15424, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 6 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Valkyrie', 'Marley & Me', "He's Just Not That Into You", "Dr. Horrible's Sing-Along Blog", and 'Knowing'.
+
+----------------Response Time: 5.391981840133667----------------
+Number of users: 250
+DF shape:  (38823, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 22 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.746517896652222----------------
+
+Number of users: 500
+DF shape:  (80297, 7)
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 47 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 16.791091203689575----------------
+
+File 4
+
+(167, 6)
+Number of users: def
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.474442005157471----------------
+
+(400, 6)
+Number of users: 5
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.608645915985107----------------
+
+(1219, 6)
+Number of users: 10
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.5156049728393555----------------
+
+(1438, 6)
+Number of users: 15
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 1 user rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.5931761264801025----------------
+
+(2144, 6)
+Number of users: 20
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 2 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Sense and Sensibility', 'Leaving Las Vegas', 'City of Lost Children, The (Cité des enfants perdus, La)', 'Shanghai Triad (Yao a yao yao dao waipo qiao)', and 'Babe'.
+----------------Response Time: 5.5422821044921875----------------
+
+(7927, 6)
+Number of users: 50
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 3 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'A Silent Voice', 'Ghost in the Shell', 'Free Fire', 'Sense and Sensibility', and 'Leaving Las Vegas'.
+----------------Response Time: 5.882580995559692----------------
+
+(15424, 6)
+Number of users: 100
+
+> Finished chain.
+Q: How many users rated 'Jungle Book, The'?
+A: 6 users rated 'Jungle Book, The'.
+
+> Finished chain.
+Q: I like the movie 'Dead Man Walking'. give me 5 movie similar to this one with their genres
+A: Based on the genres of 'Dead Man Walking', here are 5 similar movies you might enjoy: 'Valkyrie', 'Marley & Me', "He's Just Not That Into You", "Dr. Horrible's Sing-Along Blog", and 'Knowing'.
+----------------Response Time: 5.8874900341033936----------------
