@@ -64,3 +64,4 @@ ehthumbs.db
 *.orig
 data/ratings.csv
 data/tags.csv
+data/*
