@@ -1,0 +1,38 @@
+--------------------- LLM ---------------------
+
+['269948909', '000173003', '269886945'] - STATISTICS - Xin Zhang - 269948909 - correct
+['269807623', '269794080', '269879497'] - AI Circuits design - Azadeh Davoodi - 269794080 - correct
+['269807623', '269794080', '269879497'] - hardware software co-design - Azadeh Davoodi - 269794080 - correct
+['269677663', '269988546', '270021884'] - Trustworthy AI - Benjamin Fuller - 269988546 - wrong
+['269677663', '269988546', '269814599'] - Networking safety - Benjamin Fuller - 269988546 - correct
+['269811881', '269958535', '270083608'] - Bioinformatics - Jianlin Cheng - 269811881 - correct
+['270082637', '269726900', '269963435'] - Robotics - Rodrigo O Spinola - 270082637 - correct
+['270082637', '269726900', '270021884'] - AI in Robotics - Guido F Montufar Cuartas - 270021884 - wrong
+['269934201', '269769382', '269911544'] - Algorithm - Michael Dinitz - 269934201 - correct
+['269721983', '269928133', '000171581'] - Data Science - Sofya Raskhodnikova - 269721983 - correct
+
+
+['000025017', '000025762', '000030655'] - knowledge graph - Steven N MacEachern - 000025762 - correct
+['000025017', '000025762', '000030655'] - AI - Steven N MacEachern - 000025762 - correct
+['000025017', '000025762', '000030655'] - Neuroscience - Steven N MacEachern - 000025762 - correct
+['000025017', '000025762', '000030655'] - STATISTICS - Steven N MacEachern - 000025762 - correct
+
+------------------------- LLM ------------------------
+
+--------------------- RULE BASED ---------------------
+
+['269948909', '000173003', '269886945'] - STATISTICS - 000173003 - Peter D Hislop - 2nd most optimal option
+['269807623', '269794080', '269879497'] - AI Circuits design - 269794080 - Azadeh Davoodi - correct
+['269807623', '269794080', '269879497'] - hardware software co-design - 269794080 - Azadeh Davoodi - correct
+['269677663', '269988546', '270021884'] - Trustworthy AI - 270021884 - Guido F Montufar Cuartas - correct
+['269677663', '269988546', '269814599'] - Networking safety - 269814599 - Srinivas Shakkottai - wrong
+['269811881', '269958535', '270083608'] - Bioinformatics - 269958535 - HaiYing   Wang - wrong
+['270082637', '269726900', '269963435'] - Robotics - 270082637 - Rodrigo O Spinola - correct
+['270082637', '269726900', '270021884'] - AI in Robotics - 270021884 - Guido F Montufar Cuartas - wrong
+['269934201', '269769382', '269911544'] - Algorithm - 269769382 - Susan D Nickerson - wrong
+['269721983', '269928133', '000171581'] - Data Science - 269721983 - Sofya Raskhodnikova - correct
+
+['000025017', '000025762', '000030655'] - knowledge graph - 000025762 - Steven N MacEachern - correct
+['000025017', '000025762', '000030655'] - AI - 000025762 - Steven N MacEachern - correct
+['000025017', '000025762', '000030655'] - Neuroscience - 000025762 - Steven N MacEachern - correct
+['000025017', '000025762', '000030655'] - STATISTICS - 000025762 - Steven N MacEachern - correct
