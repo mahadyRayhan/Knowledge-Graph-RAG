@@ -1,0 +1,16 @@
+[
+    {
+        "question": "List all papers authored by 'Benoit Steiner'.",
+        "answer": "The provided data does not show who authored the papers.  Therefore, I cannot answer the question about papers authored by Benoit Steiner.\n",
+        "generated_query": "MATCH (a:Author)-[:AUTHORED]->(p:Paper) WHERE a.name = 'Benoit Steiner' RETURN p\n\nFull Context:\n[{'p': {'citations': 17652, 'year': 2016.0, 'topic': 'Machine Learning', 'title': 'TensorFlow: A system for large-scale machine learning'}}, {'p': {'citations': 10819, 'year': 2016.0, 'topic': 'Machine Learning', 'title': 'TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems'}}]",
+        "full_context": "[{'p': {'citations': 17652, 'year': 2016.0, 'topic': 'Machine Learning', 'title': 'TensorFlow: A system for large-scale machine learning'}}, {'p': {'citations': 10819, 'year': 2016.0, 'topic': 'Machine Learning', 'title': 'TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems'}}]\n\n> Finished chain.",
+        "explanation": "The answer was generated using a multi-step process: ..."
+    },
+    {
+        "question": "List all papers authored by 'Han Xiao'.",
+        "answer": "The provided data shows one paper authored (at least in part) by Han Xiao: \"Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms\" (2017).\n",
+        "generated_query": "MATCH (a:Author)-[:AUTHORED]->(p:Paper) WHERE a.name = 'Han Xiao' RETURN p\n\nFull Context:\n[{'p': {'citations': 8026, 'year': 2017.0, 'topic': 'Machine Learning', 'title': 'Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms'}}]",
+        "full_context": "[{'p': {'citations': 8026, 'year': 2017.0, 'topic': 'Machine Learning', 'title': 'Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms'}}]\n\n> Finished chain.",
+        "explanation": "The answer was generated using a multi-step process: ..."
+    }
+]
