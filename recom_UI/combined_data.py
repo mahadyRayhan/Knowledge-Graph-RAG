@@ -31,6 +31,7 @@ ranking_data = None
 ranking_data_grouped = None
 embedder = None # Will be initialized to SentenceTransformer instance
 
+load_dotenv()
 
 # --- Helper Functions ---
 def duplicate_row_check(df):

@@ -26,7 +26,7 @@ from combined_data import (
 app = Flask(__name__)
 
 # --- Configuration & Setup ---
-load_dotenv(dotenv_path="../.env")
+load_dotenv()
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 NEO4J_URL = os.getenv("NEO4J_CONNECTION_URL")
