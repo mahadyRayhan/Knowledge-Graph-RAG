@@ -65,3 +65,4 @@ ehthumbs.db
 data/ratings.csv
 data/tags.csv
 data/*
+data_collection/s2_author_data/*
